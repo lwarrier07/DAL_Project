@@ -8,27 +8,63 @@
 4. Simran Adwani (Reg no. 22112335) 
 
 ## Description
-The Environmental Impact Data Analytics Project delves into the intricate analysis of air quality and environmental factors across various states and union territories (UTs) in India. This data-driven exploration aims to uncover insights that contribute to a deeper understanding of environmental challenges. The comprehensive project involves data cleaning, descriptive statistics, exploratory data analysis (EDA), and predictive modeling, providing valuable tools for addressing environmental concerns.
+The Environmental Impact Data Analytics Project delves into the intricate analysis of air quality, land quality and environmental factors across various states and union territories (UTs) in India. This data-driven exploration aims to uncover insights that contribute to a deeper understanding of environmental challenges. The comprehensive project involves data cleaning, descriptive statistics, exploratory data analysis (EDA), and predictive modeling, providing valuable tools for addressing environmental concerns.
 
 ## Dataset Description
-The dataset incorporates a multitude of parameters, including air quality indicators (SO2, NO2, PM10, PM2.5), pesticides consumption, population, state area, and various environmental features such as land use, forest cover, wetlands, and water bodies. The diversity of these parameters allows for a holistic examination of environmental conditions.
+The datasets incorporates a multitude of parameters, including air quality indicators (SO2, NO2, PM10, PM2.5), pesticides consumption, population, state area, and various environmental features such as land use, forest cover, wetlands, and water bodies. The diversity of these parameters allows for a holistic examination of environmental conditions.
 
 ## Project Structure
 
-* *Data Cleaning and Exploration:*
-   * The data_tab view provides an overview of the dataset, showcasing the first and last ten rows along with detailed information about each column, including data types and null counts.
-* *Data Profile:*
-   * The profile_view view generates a Pandas profiling report, offering insights into data types, missing values, correlations, and variable distributions.
-* *Descriptive Statistics:*
-   * The descriptive_statistics_tab view performs descriptive statistics, presenting summary metrics like mean, standard deviation, minimum, maximum, and quartiles for numerical columns.
-* *Exploratory Data Analysis (EDA):*
-   * The exploratory_data_analysis_tab view employs interactive visualizations such as histograms, box plots, scatter plots, and pie charts, enabling users to explore distribution patterns and relationships within the data.
-* *Exploratory Data Analysis (EDA):*
-   * The exploratory_data_analysis_tab view employs interactive visualizations such as histograms, box plots, scatter plots, and pie charts, enabling users to explore distribution patterns and relationships within the data.
-* *Data Profiling*
-   * In this project is pivotal for comprehensive analysis. It unveils crucial insights into data types, missing values, correlations, and distributions, ensuring a nuanced understand
-* *Predictive Modeling:*
-   * The predict_air_quality and predict_land_erosion view implements a predictive model using a RandomForestRegressor. Users can input values for various features, and the model predicts the target variable. The trained model is saved for future predictions.
+ **Data Cleaning and Exploration:**
+
+  - Data Tab View:
+   - Provides an overview of the dataset.
+   - Showcases the first and last ten rows.
+   - Detailed column information included.
+
+ **Data Profile:**
+
+  - Profile View:
+   - Generates a Pandas profiling report.
+   - Offers insights into data types, missing values, correlations, and variable distributions.
+
+ **Descriptive Statistics:**
+
+  - Descriptive Statistics Tab View:
+   - Presents summary metrics like mean, standard deviation, and quartiles.
+   - Focuses on numerical columns.
+
+ **Exploratory Data Analysis (EDA):**
+
+  - Exploratory Data Analysis Tab View:
+   - Utilizes interactive visualizations:
+     - Histograms
+     - Scatter plots
+     - Pie charts
+   - Explores data distribution patterns and relationships.
+
+ **Data Profiling:**
+
+  - Integral for Comprehensive Analysis:
+   - Unveils crucial insights into:
+     - Data types
+     - Missing values
+     - Correlations
+     - Distributions
+
+ **Predictive Modeling:**
+
+  - Predict Air Quality View:
+   - Implements a RandomForestRegressor.
+   - Allows users to input values for various features.
+   - Obtains predictions, and the trained model is saved for future use.
+
+  **Additional**
+   - Land Erosion Prediction (Jupyter Notebook):
+      - land_prediction folder:
+        - Contains .ipynb files providing codes and analysis for predicting land erosion.
+        - Includes data preprocessing, feature engineering, and model training using machine learning techniques.
+
 
 ## Functionality
 
@@ -44,9 +80,6 @@ The dataset incorporates a multitude of parameters, including air quality indica
 - *Exploratory Data Analysis (EDA):*
   - Navigate to the exploratory_data_analysis_tab view to explore interactive visualizations.
 
-- *Box Plot:*
-  - Create an interactive box plot using the box_plot view.
-
 - *Predictive Modeling:*
   - Use the predict_air_quality view to input values for various features and get predictions.
 
@@ -60,3 +93,6 @@ The dataset incorporates a multitude of parameters, including air quality indica
 3. Install the required packages: pandas, ydataprocessing.
 4. Run the Django project.
 5. Access various functionalities through the provided views.
+
+## Project Layout
+
