@@ -70,7 +70,7 @@ For the land erosion prediction component, the project folder incorporates .ipyn
 ## Functionality
 
 - *Data Profiling:*
-  - Access the data profiling report at http://yourdomain.com/data-profiling/.
+  - Access the data profiling report.
 
 - *Data Cleaning and Exploration:*
   - Use the data_tab view to explore the first and last ten rows of the dataset.
@@ -96,23 +96,23 @@ For the land erosion prediction component, the project folder incorporates .ipyn
 5. Access various functionalities through the provided views.
 
 ## Project Layout
-  - ![Screenshot (104)](https://github.com/lwarrier07/DAL_Project/assets/118895179/8aebe47e-ca50-4758-8d9f-1c410de73727)
+   ![Screenshot (104)](https://github.com/lwarrier07/DAL_Project/assets/118895179/8aebe47e-ca50-4758-8d9f-1c410de73727)
     
-  - ![Screenshot (102)](https://github.com/lwarrier07/DAL_Project/assets/118895179/d83abbf7-3e0f-45f4-a24f-e32480689270)
+   ![Screenshot (102)](https://github.com/lwarrier07/DAL_Project/assets/118895179/d83abbf7-3e0f-45f4-a24f-e32480689270)
     
-  - ![Screenshot (103)](https://github.com/lwarrier07/DAL_Project/assets/118895179/f9631488-b4ab-47eb-992d-ba77f29a69cc)
+   ![Screenshot (103)](https://github.com/lwarrier07/DAL_Project/assets/118895179/f9631488-b4ab-47eb-992d-ba77f29a69cc)
     
-  - ![Screenshot (105)](https://github.com/lwarrier07/DAL_Project/assets/118895179/6b6acea3-ad3f-4529-aac9-0bf47ce1ef2b)
+   ![Screenshot (105)](https://github.com/lwarrier07/DAL_Project/assets/118895179/6b6acea3-ad3f-4529-aac9-0bf47ce1ef2b)
     
-  - ![Screenshot (106)](https://github.com/lwarrier07/DAL_Project/assets/118895179/0ceb9126-d82f-4fb3-971e-5550dcce3fab)
+   ![Screenshot (106)](https://github.com/lwarrier07/DAL_Project/assets/118895179/0ceb9126-d82f-4fb3-971e-5550dcce3fab)
     
-  - ![Screenshot (107)](https://github.com/lwarrier07/DAL_Project/assets/118895179/f65cecb9-de9a-444c-88b9-4495efcc4f67)
+   ![Screenshot (107)](https://github.com/lwarrier07/DAL_Project/assets/118895179/f65cecb9-de9a-444c-88b9-4495efcc4f67)
     
-  - ![Screenshot (109)](https://github.com/lwarrier07/DAL_Project/assets/118895179/02f7500c-16d5-43cd-b54c-298ba60402ea)
+   ![Screenshot (109)](https://github.com/lwarrier07/DAL_Project/assets/118895179/02f7500c-16d5-43cd-b54c-298ba60402ea)
     
-  - ![Screenshot (110)](https://github.com/lwarrier07/DAL_Project/assets/118895179/ea3ef4cb-7914-4c3c-9d15-e113b8f51fa4)
+   ![Screenshot (110)](https://github.com/lwarrier07/DAL_Project/assets/118895179/ea3ef4cb-7914-4c3c-9d15-e113b8f51fa4)
     
-  - ![Screenshot (108)](https://github.com/lwarrier07/DAL_Project/assets/118895179/b452db90-52ce-44cc-8673-b991d06d98bc)
+   ![Screenshot (108)](https://github.com/lwarrier07/DAL_Project/assets/118895179/b452db90-52ce-44cc-8673-b991d06d98bc)
 
 
 
