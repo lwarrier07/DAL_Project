@@ -96,7 +96,7 @@ For the land erosion prediction component, the project folder incorporates .ipyn
 5. Access various functionalities through the provided views.
 
 ## Project Layout
-  - ![Screenshot (101)](https://github.com/lwarrier07/DAL_Project/assets/118895179/17728df4-c179-4f24-a44f-021932d80a99)
+  - [Screenshot (101)](https://github.com/lwarrier07/DAL_Project/assets/118895179/17728df4-c179-4f24-a44f-021932d80a99)
   - ![Screenshot (102)](https://github.com/lwarrier07/DAL_Project/assets/118895179/d83abbf7-3e0f-45f4-a24f-e32480689270)
   - ![Screenshot (103)](https://github.com/lwarrier07/DAL_Project/assets/118895179/f9631488-b4ab-47eb-992d-ba77f29a69cc)
   - ![Screenshot (104)](https://github.com/lwarrier07/DAL_Project/assets/118895179/8aebe47e-ca50-4758-8d9f-1c410de73727)
