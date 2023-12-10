@@ -11,7 +11,8 @@
 The Environmental Impact Data Analytics Project delves into the intricate analysis of air quality, land quality and environmental factors across various states and union territories (UTs) in India. This data-driven exploration aims to uncover insights that contribute to a deeper understanding of environmental challenges. The comprehensive project involves data cleaning, descriptive statistics, exploratory data analysis (EDA), and predictive modeling, providing valuable tools for addressing environmental concerns.
 
 ## Dataset Description
-The datasets incorporates a multitude of parameters, including air quality indicators (SO2, NO2, PM10, PM2.5), pesticides consumption, population, state area, and various environmental features such as land use, forest cover, wetlands, and water bodies. The diversity of these parameters allows for a holistic examination of environmental conditions.
+The dataset encompasses a comprehensive array of parameters, integrating air quality indicators (SO2, NO2, PM10, PM2.5), pesticides consumption, population, state area, and diverse environmental features such as land use, forest cover, wetlands, and water bodies. The main Django project utilizes the cleaned_data.csv file, featuring an extensive set of headers like State/UT, SO2, NO2, PM10, PM2.5, Pesticides Consumption, Population, State Area, and various environmental characteristics. This dataset's diversity facilitates a holistic examination of environmental conditions.
+For the land erosion prediction component, the project folder incorporates .ipynb files utilizing the cleaneddata.csv dataset. This dataset includes headers such as S. No., State/UT, State Area km², Water Erosion, Wind Erosion, Water Logging, Salinisation/Alkalisation, Acidification, Anthropogenic, Others, Total, SO2, NO2, PM10, PM2.5, Year, Annual temperature (min), Annual temperature (max), and Annual rainfall. These parameters contribute to a nuanced analysis, providing insights into various erosion factors and climatic conditions over different time periods.
 
 ## Project Structure
 
@@ -95,4 +96,5 @@ The datasets incorporates a multitude of parameters, including air quality indic
 5. Access various functionalities through the provided views.
 
 ## Project Layout
+
 
